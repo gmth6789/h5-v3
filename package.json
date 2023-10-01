@@ -1,8 +1,7 @@
 {
-  "name": "vite-vue-typescript-starter",
-  "private": true,
-  "version": "0.1.0",
-  "type": "module",
+  "name": "vite-vue3-h5",
+  "version": "0.0.0",
+  "homepage": "git@buqiyuan.github.io/vite-vue3-h5",
   "scripts": {
     "serve": "npm run dev",
     "dev": "vite",
