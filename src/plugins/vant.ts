@@ -8,4 +8,4 @@ import 'vant/es/notify/style';
 // ImagePreview
 import 'vant/es/image-preview/style';
 
-import '@vant/touch-emulator'; // 桌面端touch适配
+import '@vant/touch-emulator';
