@@ -6,7 +6,7 @@ export const main: Array<RouteRecordRaw> = [
     name: 'home',
     component: () => import('@/views/home/index.vue'),
     meta: {
-      title: '首页',
+      title: 'หน้าหลัก',
       icon: 'home-o',
     },
   },
